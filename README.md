@@ -1,4 +1,4 @@
-### Oiee, seja bem-vindo! 👋
+### Oiee, seja bem-vindo (a)! 👋
 
 - 📚 Estudando: Redes de computadores, programação Front-end e Python
 - 😄 Pronouns: Ela/Dela
