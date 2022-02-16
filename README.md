@@ -3,7 +3,7 @@
 - 📚 Estudando: Redes de computadores, programação Front-end e Python
 - 😄 Pronouns: Ela/Dela
 - 💻 Nível: Iniciante
-- Conheça meu Projeto: https://projeto-integrador.tsrproject.repl.co/ <em andamento>
+- Conheça meu Projeto: https://projeto-integrador.tsrproject.repl.co/ <em construção>
 
 <div align="center">
   <a href="https://github.com/ingrid-2154">
