@@ -6,17 +6,6 @@
 - 📌 Estudando JS, C# e SQL
 - 😄 Pronouns: Ela/Dela
 
- <div align="center"><br>
-<a href="https://github-readme-stats.vercel.app/api?username=ingrid-2154&show_icons=true&rank_icon=github">
- <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=ingrid-2154&theme=radical&show_icons=true&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ingrid-2154&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
-</div>
-
-
-
  
 <div align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
