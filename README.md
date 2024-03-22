@@ -2,9 +2,9 @@
 
 - 📚 Formada em Redes de Computadores pelo IFSP
 - 📖 Cursando Análise e Desenvolvimento de Sistemas
-- 💻 Estagiando em Análise de Sistemas
-- 📌 Estudando JS, C# e SQL
-- 😄 Pronouns: Ela/Dela
+- 💻 Estagiando como Analista de Sistemas
+- 📌 Estudando C# e SQL S2
+  
 
  
 <div align="center"><br>
